@@ -1,0 +1,20 @@
+
+package basic;
+
+
+public class BASIC {
+
+    
+    public static void main(String[] args) {
+        
+      System.out.println("Hello World");//Printing hello world
+      
+      System.out.println("comment");
+      /*Example of making multiple line comment
+      With this you can make multiple lines of comment easily
+      Thanks
+      */
+     
+    }
+    
+}
